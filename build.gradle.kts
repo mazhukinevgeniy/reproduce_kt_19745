@@ -1,6 +1,6 @@
 plugins {
-    kotlin("jvm") version "1.9.10"
-    kotlin("kapt") version "1.9.10"
+    kotlin("jvm") version "1.9.20-Beta"
+    kotlin("kapt") version "1.9.20-Beta"
 }
 
 group = "org.example"
